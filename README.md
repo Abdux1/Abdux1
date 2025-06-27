@@ -44,7 +44,7 @@
 ### 🤝 تواصل معي:
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/abdu_x1/)  
-📧 **Email:** [![Email Badge](https://img.shields.io/badge/-Email-E4405F?style=flat&logo=Email&logoColor=white)](https://www.email.com/omranalmandil1@gmail.com/) 
+📧[![Email Badge](https://img.shields.io/badge/-Email-E4405F?style=flat&logo=Email&logoColor=white)](https://www.email.com/omranalmandil1@gmail.com/) 
 
 ---
 
