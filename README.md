@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Amiri&pause=1000&color=F7A825&center=true&vCenter=true&width=435&lines=السلام+عليكم!+أنا+عبدالرحمن+منديل؛مطور+واجهة+أمامية+(Front-End)+ومُصمم+هويات+هادفة](https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders)" alt="Typing SVG" />
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/Abdux1" alt="Hello Coders)" alt="Typing SVG" />
 </div>
 
 <br/>
